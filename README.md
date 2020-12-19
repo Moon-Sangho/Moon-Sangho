@@ -4,7 +4,9 @@
 
 - Clean Code를 추구합니다.
 
-- 깔끔한 UI, UX design에도 관심이 많습니다.
+- 디버깅을 통해 새로운 개념을 알아가는 과정을 좋아합니다.
+
+- '함께 일하고 싶은 개발자, 프로의식을 가진 개발자'를 모토로 삼고 있습니다.
 
 [![Moon-Sangho's github stats](https://github-readme-stats.vercel.app/api?username=Moon-Sangho)](https://github.com/anuraghazra/github-readme-stats)
 
