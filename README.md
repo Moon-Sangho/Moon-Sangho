@@ -8,6 +8,9 @@
 
 - '함께 일하고 싶은 개발자, 프로의식을 가진 개발자'를 모토로 삼고 있습니다.
 
+[![Moon-Sangho's github stats](https://github-readme-stats.vercel.app/api?username=Moon-Sangho)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moon-Sangho)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tech Stack
 
@@ -21,10 +24,6 @@
 <span><img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/></span>
 <span><img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></span>
 
-
-[![Moon-Sangho's github stats](https://github-readme-stats.vercel.app/api?username=Moon-Sangho)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moon-Sangho)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skym887@gmail.com)](mailto:skym887@gmail.com)
 
