@@ -25,6 +25,8 @@
 <span><img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></span>
 
 
+### Contact
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skym887@gmail.com)](mailto:skym887@gmail.com)
 
 
