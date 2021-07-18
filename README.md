@@ -27,7 +27,6 @@
 ### Under Study
 
 <span><img alt="React-Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></span>
-<span><img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/><span>
 
 ### Contact
 
