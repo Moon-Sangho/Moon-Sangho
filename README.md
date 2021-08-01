@@ -1,16 +1,19 @@
 ## 안녕하세요, 문상호입니다.
 
-- 새로운 시도를 좋아하는 ENFP type의 Front-end 개발자입니다.
+- 이질감이 없는 UI / UX를 선호하고, 항상 유저와 동료의 입장에서 생각하며 개발하는 것을 좋아합니다.
 
-- Clean Code를 추구합니다.
+- 동료들과 개발 이슈에 대해 커뮤니케이션 하는 것을 즐깁니다.
+
+- 논리적이며 타당한 비판에 열려 있는 Open-mind를 지니고 있습니다.
 
 - 디버깅을 통해 새로운 개념을 알아가는 과정을 좋아합니다.
 
-- '함께 일하고 싶은 개발자, 프로의식을 가진 개발자'를 모토로 삼고 있습니다.
+- 성장에 대한 욕구가 충만하며, 잠자리에 들기 전까지 더 좋은 코드에 대해 고민하는 것을 즐깁니다.
 
-[![Moon-Sangho's github stats](https://github-readme-stats.vercel.app/api?username=Moon-Sangho)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moon-Sangho)](https://github.com/anuraghazra/github-readme-stats)
+### Contact
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skym887@gmail.com)](mailto:skym887@gmail.com)
 
 ### Tech Stack
 
@@ -28,21 +31,11 @@
 
 <span><img alt="React-Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></span>
 
-### Contact
+<br />
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skym887@gmail.com)](mailto:skym887@gmail.com)
+[![Moon-Sangho's github stats](https://github-readme-stats.vercel.app/api?username=Moon-Sangho)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moon-Sangho)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-<!--
-**Moon-Sangho/Moon-Sangho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
