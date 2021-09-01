@@ -30,6 +30,7 @@
 ### Under Study
 
 <span><img alt="React-Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></span>
+<span><img alt="Apollo-GraphQL" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white"></span>
 
 <br />
 
