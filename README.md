@@ -30,9 +30,9 @@
 
 <br />
 
-[![Moon-Sangho's github stats](https://github-readme-stats.vercel.app/api?username=Moon-Sangho)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moon-Sangho)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Moon-Sangho's github stats](https://github-readme-stats.vercel.app/api?username=Moon-Sangho)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoon-Sangho&count_bg=%2334B8B7&title_bg=%234E6D6E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
