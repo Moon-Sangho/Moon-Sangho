@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20there!%20👋-nl-&fontSize=30&desc=I'm%20a%20front-end%20developer%20who%20likes%20to%20prioritize%20and%20organize.&descAlignY=50&animation=fadeIn)
+## Hello, there! 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&repeat=false&width=800&height=60&lines=I'm+a+front-end+developer+who+likes+to+prioritize+and+organize.)](https://git.io/typing-svg)
 
 ### Contact
 
