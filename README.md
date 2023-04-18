@@ -1,16 +1,4 @@
-## 안녕하세요, 문상호입니다.
-
-
-- 이질감이 없는 UI / UX를 선호하고, 항상 유저와 동료의 입장에서 생각하며 개발하는 것을 좋아합니다.
-
-- 코드를 작성하는 것은 글쓰기와 같다고 생각합니다. Readable한 코드를 작성하기 위해 고민하는 것을 좋아합니다.
-
-- 동료들과 개발 트렌드와 이슈에 대해 커뮤니케이션 하는 것을 좋아합니다.
-
-- 논리적이며 타당한 비판에 열려 있는 Open-mind를 지니고 있습니다.
-
-- 디버깅을 통해 새로운 개념을 알아가는 과정을 좋아합니다.
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20there!%20👋-nl-&fontSize=30&desc=I'm%20a%20front-end%20developer%20who%20likes%20to%20prioritize%20and%20organize.&descAlignY=50&animation=fadeIn)
 
 ### Contact
 
@@ -24,16 +12,16 @@
 <span><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/></span>
 <span><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></span>
 <span><img alt="React-Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></span>
-<span><img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/></span>
 <span><img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/></span>
-<span><img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/></span>
+<span><img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/></span>
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Jotai](https://img.shields.io/badge/jotai-2c4f7c?&style=for-the-badge&logo=atom&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <span><img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></span>
+<span><img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/></span>
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moon-Sangho)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moon-Sangho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Moon-Sangho's github stats](https://github-readme-stats.vercel.app/api?username=Moon-Sangho)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoon-Sangho&count_bg=%2334B8B7&title_bg=%234E6D6E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+[![Moon-Sangho's github stats](https://github-readme-stats.vercel.app/api?username=Moon-Sangho&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
