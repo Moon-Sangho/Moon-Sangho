@@ -1,6 +1,6 @@
 ## Hello, there! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&repeat=false&width=800&height=60&lines=I'm+a+front-end+developer+who+likes+to+prioritize+and+organize.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=800&height=60&lines=I'm+a+front-end+developer+who+likes+to+prioritize+and+organize.)](https://git.io/typing-svg)
 
 ### Contact
 
