@@ -4,7 +4,7 @@
 
 ### Contact
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skym887@gmail.com)](mailto:skym887@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.danny.moon@gmail.com)](mailto:dev.danny.moon@gmail.com)
 
 ### Tech Stack
 
